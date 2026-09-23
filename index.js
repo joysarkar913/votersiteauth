@@ -12,3 +12,4 @@ app.post("/",(req,res)=>{
     }
     res.send(details)
 })
+app.listen(3004)
